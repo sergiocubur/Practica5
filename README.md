@@ -1,16 +1,18 @@
-PRACTICA 4
+PRACTICA 5
 ==========
 
 Descripción del proyecto
 ------------------------
 Microservicios vinculados para hacer pedidos de restaurantes y envios por delivery, estos orquestados por un ESB
 
-La practica 4 esta dividida en 4 microservicios
+La practica 5 esta dividida en 4 microservicios
 - servidor del cliente
 - servidor del restaurante
 - servidor del repartidor
 - web service del repartidor, restaurante y cliente
 - servicio de orquestador que conecta cada uno de los servicios
+
+Se incorpora versionamiento SEMVER y JENKINS
 
 Autor
 -----
